@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.1.33",
-    "axios": "^0.26.1",
+    "axios": "^0.27.2",
     "clsx": "^1.1.1",
     "formidable": "^2.0.1",
     "next": "12.1.6",
